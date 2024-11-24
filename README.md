@@ -2,8 +2,8 @@
 
 A React-based configuration tool for customizing chat widget appearances with real-time preview functionality. This application allows users to customize various aspects of a chat widget interface and export/import configurations through JSON files.
 
-![Chat Widget Configurator Preview](![image](https://github.com/user-attachments/assets/350c7375-a7f6-48b7-8799-3400cb438545)
-)
+![image](https://github.com/user-attachments/assets/f01d03b7-c03f-4795-adef-5e4c9bc4ac2b)
+
 
 ## Features
 
