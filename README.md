@@ -61,23 +61,9 @@ The configurator allows customization of:
 3. The widget preview will update automatically
 
 ### Exporting Configuration
-
 1. Customize the widget using the available options
 2. Click "Download Config"
 3. A JSON file will be downloaded with your current configuration
-
-## Responsive Design
-
-The application is fully responsive with breakpoints at:
-- Mobile: Default
-- Tablet: 768px (md)
-- Desktop: 1024px (lg)
-
-Key responsive features:
-- Single column layout on mobile
-- Two column layout on desktop
-- Flexible input containers
-- Adaptive preview sizing
 
 ## Customization
 ## License
