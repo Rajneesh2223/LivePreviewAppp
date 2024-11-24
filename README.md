@@ -2,7 +2,8 @@
 
 A React-based configuration tool for customizing chat widget appearances with real-time preview functionality. This application allows users to customize various aspects of a chat widget interface and export/import configurations through JSON files.
 
-![Chat Widget Configurator Preview](/api/placeholder/800/400)
+![Chat Widget Configurator Preview](![image](https://github.com/user-attachments/assets/350c7375-a7f6-48b7-8799-3400cb438545)
+)
 
 ## Features
 
@@ -24,7 +25,7 @@ A React-based configuration tool for customizing chat widget appearances with re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat-widget-configurator.git
+[git clone https://github.com/yourusername/chat-widget-configurator.git](https://github.com/Rajneesh2223/LivePreviewAppp.git)
 ```
 
 2. Install dependencies:
